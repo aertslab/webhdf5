@@ -1,0 +1,5 @@
+/libhdf5/
+
+*~
+build.py
+webhdf5.wasm.br

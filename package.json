@@ -1,0 +1,24 @@
+{
+  "name": "webhdf5",
+  "version": "0.0.0",
+  "description": "WASM compilation of a subset of libhdf5 C high- and low-level library functions.",
+  "main": "webhdf5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aertslab/webhdf5.git"
+  },
+  "keywords": [
+    "WASM",
+    "webassembly",
+    "HDF5"
+  ],
+  "author": "James Collier <james.collier@vib.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aertslab/webhdf5/issues"
+  },
+  "homepage": "https://github.com/aertslab/webhdf5#readme"
+}
