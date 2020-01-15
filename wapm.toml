@@ -1,0 +1,9 @@
+[package]
+name = "webhdf5"
+version = "0.1.0"
+description = "LibHDF5 low- and high-level C API"
+license = "MIT"
+
+[[module]]
+name = "libhdf5"
+source = "libhdf5.wasm"
